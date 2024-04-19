@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "healthtrial-419811",
+  "private_key_id": "bab1ac0b9e88c148fd7e07863c4447d7b28b4ab7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQ5Aj2FdBQkR9D\nq9392awpj6NX/gu5dkq2d3zOnMJoEMSj4d70YiEB59cnYG4DR3n0LXFegeyhuWbs\nG14Sd/kUVxDEph1E19jqM9El0BYn366DuMEX4T51rTemu4qN2EqKmUeEF5dZUSfI\nlqovg5uf/gS5TYitgJcpwaxb80J8vSgMmQ3kubOlNMA7i2PkE7kama4RmLZ+FBQm\n/0DjAGv//XvycW2Llb9GkSKIf6rP/LahErI9Bk2Bo/bu+jPLvmRb3AlSUeOc8HlM\nyU7AXPRJq3UtXm1MT6M7Zn/1VFX8UoWc87q1wLWYhd9yTO6rPJVLzNJEwLzDIuaF\nAImMmRBBAgMBAAECggEABQCO7+CoGUPOYzsWgO2RXDnstA7Y9kcdRScRmauCksYj\nBVcjdQf0CSUFf5OFMuYnZxfe/P/AvEMxsiH6I9hUYj6u/7yIGyXNk5cr0RtdanVG\nazBVjGY4Dg6YtHENgXXOXCkNP74mYUzKlni4KNTemUtWjt7q0NfRVt5Ey7tkqlK8\nq/X96j0bJNBHv/CG93CR1BnPJtrDTxVedH3dw9uCDWpxRZjwTWozLQt4O/nqk0uB\nDIqy2Nu70dJo8EvJqaULariUBP02JL7pKTDDP6lXfFaupINjKiXFaGtGgeNPNzZS\nDYRtQC0TwGbZlNPVxeqV117QSmg09YgUlVPxGHmYIQKBgQD4lYopJrtfLDnwoFVu\nK2dXqqCODD+v/jTL6QFT6YtvFYsjmvyK9DDorVqGnn3/nxLDEjbkOvXGGl2ytzTK\nccnWtR2Ggns33CezQ+MEnqXkg6iEc7Mh/ii4BqmwQlDuEToQ3bn1YvPU5nrZ6mvE\nE4ohWZ9n/sh1pQ6rQq0sgCJekQKBgQDXH1pwet2AGbqNBDyaHPzWcybmna1VOyX4\nEeV/PPxfraoAFgKdKn0wmiCk2pZYoxtctAfN/6+lY3HHEcmzQb0U6v3DYH2F+hJ1\negRVmnjTrJ5brmNuIE4ErugXbRBRBDsYwIiy2nwk3Rc89qIAUsKfBHulkrLpWC9U\n8gZM+W3OsQKBgQC6clbtJJrW+HIAtBE/j5h0XYsM380I8K6i3oHbcUjeqZbxvrZ6\ndksUyakjXU794k8NNuUq67oZuv7aI6WZzhzoSHH7yHQo4px4TYvBlEizC7jil3Ed\nJuddl8nAZQ0UcqFNszBeB7kAz1oHhlcL+ufYucLhGm06J/HHrDv9K6IbsQKBgGlF\nj5VxmslgTdlKVHm6a8Rp74R1buhBnLAL2fntFzefHY0TOE4/B6psEkN6MI7Jqs8v\nzo3xbLwLsRcQzlqpdeUxpeMhaevRV40jm9FkWXKEi64j5cZzippiGXO1TIHJBz5y\nobKclpnXk9Kigt6ToWf94qBA7Mqh+++ezJSIj0LRAoGAcMj7/L/nUANVOcmUL/YD\nu4R8nHzGNzxgLrnLLzfrZt/pjzDK5vlf85sOaZkiPmw9qw10V1k5NBtIZ6mbyo1z\nsSnqSy/7zSvUlbByBPCd79ssi+iElJi0Ewdxf07d03yNbJHBXrUwda21KCnuY4id\n8K1TSZ3IkoxLBzIsStlDDr8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "assistant-credentials@healthtrial-419811.iam.gserviceaccount.com",
+  "client_id": "113032567713712112931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/assistant-credentials%40healthtrial-419811.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

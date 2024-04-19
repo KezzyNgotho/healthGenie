@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
   appName: {
     fontSize: 44,
     fontWeight: 'bold',
-    color:'#124076' , // Adjust color as needed
+    color:'#3085C3' , // Adjust color as needed
     fontFamily: 'cursive', // Change font to caligraphed font
     marginBottom: 20,
   },
@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
   },
   subHeader: {
     fontSize: 16,
-    color: '#124076',
+    color: '#3085C3',
     marginBottom: 20,
   },
   inputContainer: {
@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 20,
     borderBottomWidth: 0.9,
-    borderBottomColor: '#124076',
+    borderBottomColor: '#3085C3',
     width: '100%',
   },
   inputIcon: {
@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
   loginButton: {
-    backgroundColor: '#124076',
+    backgroundColor: '#3085C3',
     paddingVertical: 10,
     paddingHorizontal: 20,
     borderRadius: 5,
@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
   },
   signupText: {
     marginTop: 10,
-    color: '#124076',
+    color: '#3085C3',
   },
 });
 

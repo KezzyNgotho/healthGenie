@@ -13,9 +13,9 @@ const BottomTabNavigator = () => {
 
   return (
     <Tab.Navigator
-    activeColor={'#4E6C50'}
-    inactiveColor={'#561C24'}
-    barStyle={{ backgroundColor: '#F5E8E4' }} // Use background color from theme
+    activeColor={'#3085C3'}
+    inactiveColor={'#124076'}
+    barStyle={{ backgroundColor: '#F0F3FF' }} // Use background color from theme
     initialRouteName='HomeScreen'
     tabBarOptions={{
       labelStyle: styles.tabBarLabelStyle,
